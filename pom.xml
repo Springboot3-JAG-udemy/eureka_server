@@ -15,7 +15,7 @@
 	<description>servidor eureka para el msvc de producto e items</description>
 	<properties>
 		<java.version>17</java.version>
-		<spring-cloud.version>2023.0.2</spring-cloud.version>
+		<spring-cloud.version>2023.0.2</spring-cloud.version>	
 	</properties>
 	<dependencies>
 		<dependency>
